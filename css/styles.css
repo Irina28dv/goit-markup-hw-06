@@ -953,9 +953,14 @@ max-width: 356px;
     max-width: 496px; 
     margin-bottom: 36px;  
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+}
 .footer-media {
     display: flex;
-    gap: 24px;
+    
 }
 .footer-logo{
     text-align: left;
@@ -978,8 +983,9 @@ text-align: left;
     margin-right: 24px;
 }
 
-.footer-info{
-    
+
+.footer-logo-section{
+    margin-right: 24px;
 }
 .modal {
     width: 408px;
@@ -1055,9 +1061,6 @@ text-align: left;
     display: flex;
     }
 
-    .footer-media {
-    gap: 0;
-    }
     .footer-logo-section {
     margin-right: 120px;
     }
