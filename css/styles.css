@@ -1088,6 +1088,7 @@ text-align: left;
 
     .footer-logo-section {
     margin-right: 120px;
+    margin-bottom: 0;
     }
     .footer-form-title{
     text-align: left;
@@ -1098,6 +1099,10 @@ text-align: left;
     }
     .footer-bottom{
     margin-left: 80px;
+    }
+
+    .footer-social-media{
+    margin-bottom: 0;
     }
 
     .header-address-menu{
